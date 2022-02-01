@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anonim-wq
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning Python and Termux
+- 💞️ I’m looking to collaborate on professional hackers
+- 📫 How to reach me @numberishidden telegram 
